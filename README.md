@@ -23,12 +23,13 @@ The benchmark evaluated the performance of PatchTST on 5 distinct datasets (Weat
 ### Visual Analysis of the Benchmark
 Below, the graphs show the evolution of the error (RMSE and sMAPE) as the forecasting horizon increases.
 
-![Benchmark Graphs](images/benchmark_plots.webp)
+![Benchmark Graphs](images/analytics.png)
+![sMAPE](images/perfomance.png)
 
 ### Heatmap (sMAPE by Horizon)
 The heatmap allows for the identification of which datasets and horizons the PatchTST model exhibits the most stability.
 
-![Error Heatmap](images/heatmap.webp)
+![Error Heatmap](images/heatmap.png)
 
 ---
 
